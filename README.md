@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Israel Ramírez</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **freelancer**
-
-- 🌱 I’m currently learning **node, express, bbdd**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Israelramirez9?tab=repositories](https://github.com/Israelramirez9?tab=repositories)
-
-- 💬 Ask me about **react,javascript,html,css**
 
 - 📫 How to reach me **israelramirez.am@gmail.com**
 
